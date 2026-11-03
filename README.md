@@ -34,7 +34,7 @@ Unsupervised customer segmentation for insurance portfolio monitoring, on nine y
 
 ## Education
 
-- **PhD in Artificial Intelligence**, Faculty of Sciences, Université Sidi Mohamed Ben Abdellah, Fez · 2026 – present
+- **PhD in Deep Learning & Artificial Intelligence**, Faculty of Sciences, Université Sidi Mohamed Ben Abdellah, Fez · 2026 – present
 - **Master's in Mathematical Engineering and Data Science**, Multidisciplinary Faculty, Université Ibn Zohr, Ouarzazate · 2024 – 2026
 - **Bachelor's in Applied Mathematics**, Higher Normal School, Université Sidi Mohamed Ben Abdellah, Fez · 2020 – 2024
 
