@@ -2,7 +2,7 @@
 
 # Yassine Houari
 
-**PhD Student in Artificial Intelligence & Computer Vision**
+**PhD Student in Deep Learning & Artificial Intelligence**
 
 Fez, Morocco · Open to research collaborations and professional opportunities
 
@@ -13,7 +13,7 @@ Fez, Morocco · Open to research collaborations and professional opportunities
 
 ## About me
 
-I am a PhD student in AI at Université Sidi Mohamed Ben Abdellah (Fez), working at the intersection of artificial intelligence and computer vision. I hold a Master's degree in Mathematical Engineering and Data Science, and my goal is to build a strong career in scientific research, grounded in solid mathematics and careful experimentation.
+I am a PhD student in AI at Université Sidi Mohamed Ben Abdellah (Fez), working at the intersection of Deep Learning and computer vision. I hold a Master's degree in Mathematical Engineering and Data Science, and my goal is to build a strong career in scientific research, grounded in solid mathematics and careful experimentation.
 
 **Research interests:** Computer Vision · Deep Learning · Generative AI · NLP · Large Language Models
 
