@@ -21,7 +21,7 @@ I am a PhD student in AI at Université Sidi Mohamed Ben Abdellah (Fez), working
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [**Traffic sign recognition**](https://github.com/Yassine-Houari/traffic-sign-recognition-gtsrb-yolov8) | CNN classifier on 43 GTSRB classes (97.9% test accuracy), combined with YOLOv8 detection | TensorFlow, YOLOv8, OpenCV |
+| [**Traffic sign detection and recognition**](https://github.com/Yassine-Houari/traffic-sign-detection-recognition) | YOLOv8s detector trained on GTSDB (mAP@0.5 0.993) and CNN classifier on 43 GTSRB classes (98.9% test accuracy); 98.9% end-to-end recall on real road scenes | TensorFlow, YOLOv8 |
 | [**DDPM from scratch**](https://github.com/Yassine-Houari/ddpm-mnist-pytorch) | Denoising diffusion model with a time-conditioned U-Net and self-attention | PyTorch |
 | [**Segmentation and GANs**](https://github.com/Yassine-Houari/segmentation-unet-deeplabv3-gan) | U-Net and DeepLabV3+ on Mini-COCO, plus a GAN on CIFAR-10 | PyTorch |
 | [**Tifinagh handwriting recognition**](https://github.com/Yassine-Houari/tifinagh-handwriting-mlp-numpy) | NumPy-only MLP for 33 Amazigh character classes (86.1% test accuracy) | NumPy, OpenCV |
