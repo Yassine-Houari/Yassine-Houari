@@ -70,6 +70,7 @@ Unsupervised customer segmentation for insurance portfolio monitoring, on nine y
 - [Introduction to Exploratory Data Analysis](https://apxml.com/certificates/4tb8-3xak-kdw2-yf8z), ApX Machine Learning, 2026
 - [Data Visualization with Matplotlib and Seaborn](https://apxml.com/certificates/en2c-xxen-9h9g-3agx), ApX Machine Learning, 2026
 - [Getting Started with Scikit-Learn](https://apxml.com/certificates/dk8m-j294-gu5q-tzru), ApX Machine Learning, 2026
+- [Getting Started with Git](https://apxml.com/certificates/pb3a-grts-7y25-kkam), ApX Machine Learning, 2026
 
 ## Languages and community
 
