@@ -21,6 +21,7 @@ I am a PhD student in AI at Université Sidi Mohamed Ben Abdellah (Fez), working
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [**RAG assistant for technical documentation**](https://github.com/Yassine-Houari/rag-assistant-nasa-) | Multilingual question answering over the NASA Systems Engineering Handbook with cited answers (document + page), multi-query retrieval and LLM-as-a-judge evaluation (faithfulness 5.0/5, correctness 4.4/5, 100% out-of-scope refusal) | LangChain, ChromaDB, Groq, FastAPI, Docker |
 | [**Traffic sign detection and recognition**](https://github.com/Yassine-Houari/traffic-sign-detection-recognition) | YOLOv8s detector trained on GTSDB (mAP@0.5 0.993) and CNN classifier on 43 GTSRB classes (98.9% test accuracy); 98.9% end-to-end recall on real road scenes | TensorFlow, YOLOv8 |
 | [**Diffusion Image Generator**](https://github.com/Yassine-Houari/diffusion-image-generator) | DDPM built from scratch that generates handwritten digits from pure noise; FID 3.60 (real-data reference 2.20), no mode collapse, no memorization | PyTorch |
 | [**Segmentation and GANs**](https://github.com/Yassine-Houari/segmentation-unet-deeplabv3-gan) | U-Net and DeepLabV3+ on Mini-COCO, plus a GAN on CIFAR-10 | PyTorch |
@@ -54,6 +55,10 @@ Unsupervised customer segmentation for insurance portfolio monitoring, on nine y
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik00IDNoMTZhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAySDlsLTUgNHYtNGEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMnptMyA1djJoMTBWOHptMCA0djJoN3YtMnoiLz48L3N2Zz4%3D)
+![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMCAyYTggOCAwIDAgMSA2LjMyIDEyLjlsNS4zOSA1LjQtMS40MiAxLjQtNS4zOS01LjM5QTggOCAwIDEgMSAxMCAyem0wIDJhNiA2IDAgMSAwIDAgMTIgNiA2IDAgMCAwIDAtMTJ6bS0zIDRoNnYxLjVIN3ptMCAzaDR2MS41SDd6Ii8%2BPC9zdmc%2B)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Tools and MLOps**
 
@@ -67,6 +72,7 @@ Unsupervised customer segmentation for insurance portfolio monitoring, on nine y
 
 ## Certifications
 
+- [Introduction to Large Language Models](https://apxml.com/certificates/u9fr-xp3a-rfke-7gwn), ApX Machine Learning, 2026
 - [Introduction to Exploratory Data Analysis](https://apxml.com/certificates/4tb8-3xak-kdw2-yf8z), ApX Machine Learning, 2026
 - [Data Visualization with Matplotlib and Seaborn](https://apxml.com/certificates/en2c-xxen-9h9g-3agx), ApX Machine Learning, 2026
 - [Getting Started with Scikit-Learn](https://apxml.com/certificates/dk8m-j294-gu5q-tzru), ApX Machine Learning, 2026
